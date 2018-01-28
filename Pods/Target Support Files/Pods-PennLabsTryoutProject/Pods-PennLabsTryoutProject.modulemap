@@ -1,0 +1,6 @@
+framework module Pods_PennLabsTryoutProject {
+  umbrella header "Pods-PennLabsTryoutProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
